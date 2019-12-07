@@ -30,3 +30,4 @@ File -> Open Map
 
 - [ ] File -> Save Coordinates -> XXX.pdb
 
+#Renumber the residue and redo the Save Coordinates again if necessary.
