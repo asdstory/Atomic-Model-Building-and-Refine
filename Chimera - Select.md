@@ -1,8 +1,3 @@
-#### From : 
-
-- https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/midas/frameatom_spec.html
-
-- https://www.cgl.ucsf.edu/chimera/1.1700/docs/UsersGuide/midas/atom_spec.html
 
 Subcategorizations are appended to the basic specification. The symbol for the relevant category (#, :, or @) must precede the subcategory specification, although they need not be immediately adjacent. Because commas are used only to separate values of the basic reference levels (model, residue, and atom), they cannot be used to separate values of the sublevels directly. For example,
 
@@ -129,4 +124,9 @@ solvent
 - atoms automatically categorized as solvent
 
 
+#### Reference : 
+
+<https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/midas/frameatom_spec.html>
+
+- https://www.cgl.ucsf.edu/chimera/1.1700/docs/UsersGuide/midas/atom_spec.html
 
