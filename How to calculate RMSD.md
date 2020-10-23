@@ -1,7 +1,7 @@
 ### Using Chimera
 
 #### Backbone:
-- [ ] Match maker
+- [ ] rmsd #3:1-235.a@ca,n,o,c #4:1-235.a@ca,n,o,c
 
 #### Whole protein:
 - [ ] rmsd #1:1-235 #4:1-235
