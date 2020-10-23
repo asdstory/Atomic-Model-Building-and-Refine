@@ -1,5 +1,6 @@
+#### Subcategorizations are appended to the basic specification. 
 
-Subcategorizations are appended to the basic specification. The symbol for the relevant category (#, :, or @) must precede the subcategory specification, although they need not be immediately adjacent. Because commas are used only to separate values of the basic reference levels (model, residue, and atom), they cannot be used to separate values of the sublevels directly. For example,
+The symbol for the relevant category (#, :, or @) must precede the subcategory specification, although they need not be immediately adjacent. Because commas are used only to separate values of the basic reference levels (model, residue, and atom), they cannot be used to separate values of the sublevels directly. For example,
 
 #0.1-3,5
 
